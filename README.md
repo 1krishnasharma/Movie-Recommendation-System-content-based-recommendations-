@@ -8,9 +8,41 @@ Top 5 recommended movie:-
 Simple Step to run it on your system are:-
 
 1:- Download the tmbd movie dataset both credits and movie.
+
+
+
+
+
 2:- Create an jupyter folder copy dataset in this folder and create new file models.py and copy the code.
+
+
+
+
+
 3:- Download pycharm and create new project(Venv).
+
+
+
+
+
 4:- then create a file app.py and copy the code and install streamlit.
+
+
+
+
+
 5:- copy similarity.pkl , movie_dicti.pkl to pycharm.
+
+
+
+
+
+
 6:- then run command in vnev "streamlit run app.py".
+
+
+
+
+
+
 7:- this will open localserver where you see your outcome.
